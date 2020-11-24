@@ -37,7 +37,7 @@ Contributed by Song Rui(宋瑞)、Zhao Ke(赵克)
     *Farhad Nooralahzadeh, Jan Tore Lønning, Lilja Øvrelid.    University of Oslo, Norway*
 
 ### [词汇增强](#content)
-1. **Chinese NER Using Lattice LSTM，ACL2018**[paper](https://arxiv.org/pdf/1805.02023.pdf)
+1. **Chinese NER Using Lattice LSTM，ACL2018** [paper](https://arxiv.org/pdf/1805.02023.pdf)
     *Yue Zhang, and Jie Yang. Singapore University of Technology and Design*
 
 ### [图神经网络](#content)
