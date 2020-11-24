@@ -9,7 +9,10 @@ Contributed by Song Rui(宋瑞)、Zhao Ke(赵克)
 <tr>
     <td>&emsp;<a href="#基本模型">1.1 基本模型</a></td>
     <td>&emsp;<a href="#远程监督">1.2 远程监督</a></td>
-    <td>&ensp;<a href="#词汇增强">1.3 词汇增强</a></td>
+</tr>
+<tr>
+    <td>&ensp;<a href="#词汇增强">1.3 词汇增强</a></td>   
+    <td>&ensp;<a href="#图神经网络">1.4 图神经网络</a></td>
 </tr>
 <tr><td colspan="2"><a href="#关系抽取">2. 关系抽取</a></td></tr>
 <tr><td colspan="2"><a href="#实体关系联合抽取">3. 实体关系联合抽取</a></td></tr>
@@ -35,6 +38,8 @@ Yaosheng Yang, Wenliang Chen, Zhenghua Li, Zhengqiu He, Min Zhang.  Soochow Univ
 *Farhad Nooralahzadeh, Jan Tore Lønning, Lilja Øvrelid.    University of Oslo, Norway*
 
 ### [词汇增强](#content)
+
+### [图神经网络](#content)
 
 
 ## [关系抽取](#content)
