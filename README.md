@@ -31,6 +31,9 @@ Contributed by Song Rui(宋瑞)、Zhao Ke(赵克)
     
 3. **Neural Chinese Named Entity Recognition via CNN-LSTM-CRF and Joint Training with Word Segmentation，WWW2019** [paper](https://arxiv.org/pdf/1905.01964.pdf)
     *Fangzhao Wu, Junxin Liu, Chuhan Wu.  Microsoft Research Asia,Tsinghua University*
+    
+4. **CAN-NER: Convolutional Attention Network for Chinese Named Entity Recognition, NAACL2019** [paper](https://arxiv.org/pdf/1904.02141.pdf)
+    *Yuying Zhu, Guoxin Wang, Borje F. Karlsson. Nankai University, Microsoft Research Asia*
 
 ### [远程监督](#content)
 1. **Distantly Supervised NER with Partial Annotation Learning and Reinforcement Learning, ICCL2018** [paper](https://www.aclweb.org/anthology/C18-1183.pdf)
