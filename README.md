@@ -44,7 +44,10 @@ Contributed by Song Rui(宋瑞)、Zhao Ke(赵克)
     *Tao Gui et al. Fudan University, Shanghai, China*
     
 3. **CGN: Leverage Lexical Knowledge for Chinese Named Entity Recognition via Collaborative Graph Network, EMNLP2019** [paper](https://www.aclweb.org/anthology/D19-1396.pdf)
-    *Dianbo Sui1, Yubo Chen, Kang Liu1, Jun Zhao1, Shengping Liu.  Chinese Academy of Sciences, University of Chinese Academy of Sciences*
+    *Dianbo Sui, Yubo Chen, Kang Liu, Jun Zhao, Shengping Liu.  Chinese Academy of Sciences, University of Chinese Academy of Sciences*
+    
+4. **A Lexicon-Based Graph Neural Network for Chinese NER，EMNLP2019** [paper](https://www.aclweb.org/anthology/D19-1096.pdf)
+    *Tao Gui, Yicheng Zou, Qi Zhang et al. Fudan University*
 
 ### [图神经网络](#content)
 
