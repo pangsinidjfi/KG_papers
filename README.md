@@ -40,9 +40,11 @@ Contributed by Song Rui(宋瑞)、Zhao Ke(赵克)
 1. **Chinese NER Using Lattice LSTM，ACL2018** [paper](https://arxiv.org/pdf/1805.02023.pdf)
     *Yue Zhang, and Jie Yang. Singapore University of Technology and Design*
     
-2. **CNN-Based Chinese NER with Lexicon Rethinking，IJCAI2019**[paper](https://pdfs.semanticscholar.org/1698/d96c6fffee9ec969e07a58bab62cb4836614.pdf)
+2. **CNN-Based Chinese NER with Lexicon Rethinking，IJCAI2019** [paper](https://pdfs.semanticscholar.org/1698/d96c6fffee9ec969e07a58bab62cb4836614.pdf)
     *Tao Gui et al. Fudan University, Shanghai, China*
-
+    
+3. **CGN: Leverage Lexical Knowledge for Chinese Named Entity Recognition via Collaborative Graph Network** [paper](https://www.aclweb.org/anthology/D19-1396.pdf)
+    *Dianbo Sui1, Yubo Chen, Kang Liu1, Jun Zhao1, Shengping Liu.  Chinese Academy of Sciences, University of Chinese Academy of Sciences*
 
 ### [图神经网络](#content)
 
