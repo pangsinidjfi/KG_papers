@@ -48,6 +48,8 @@ Contributed by Song Rui(宋瑞)、Zhao Ke(赵克)
     
 4. **A Lexicon-Based Graph Neural Network for Chinese NER，EMNLP2019** [paper](https://www.aclweb.org/anthology/D19-1096.pdf)
     *Tao Gui, Yicheng Zou, Qi Zhang et al. Fudan University*
+5. **FLAT: Chinese NER Using Flat-Lattice Transformer，ACL2020** [paper](https://arxiv.org/pdf/2004.11795.pdf)
+    *Xiaonan Li, Hang Yan, Xipeng Qiu, Xuanjing Huang, Fudan University*
 
 ### [图神经网络](#content)
 
