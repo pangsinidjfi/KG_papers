@@ -28,6 +28,10 @@ Contributed by Song Rui(宋瑞)、Zhao Ke(赵克)
     
 2. **Fast and Accurate Entity Recognition with Iterated Dilated Convolutions, EMNLP2017** [paper](https://arxiv.org/pdf/1702.02098.pdf)
     *Strubell E, Verga P, Belanger D, et al.*
+    
+3. **Neural Chinese Named Entity Recognition via CNN-LSTM-CRF and Joint Training with Word Segmentation，WWW2019** [paper](https://arxiv.org/pdf/1905.01964.pdf)
+    *Fangzhao Wu, Junxin Liu, Chuhan Wu.  Microsoft Research Asia,Tsinghua University*
+
 ### [远程监督](#content)
 1. **Distantly Supervised NER with Partial Annotation Learning and Reinforcement Learning, ICCL2018** [paper](https://www.aclweb.org/anthology/C18-1183.pdf)
 [code](https://github.com/mianzhang/DSNER)
