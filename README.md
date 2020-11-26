@@ -16,9 +16,10 @@ Contributed by Song Rui(宋瑞)、Zhao Ke(赵克)
 </tr>
 <tr><td colspan="2"><a href="#关系抽取">2. 关系抽取</a></td></tr>
 <tr><td colspan="2"><a href="#实体关系联合抽取">3. 实体关系联合抽取</a></td></tr>
-<tr><td colspan="2"><a href="#知识问答">4. 知识问答</a></td></tr>
-<tr><td colspan="2"><a href="#推荐系统">5. 推荐系统</a></td></tr>
-<tr><td colspan="2"><a href="#知识图谱表示学习">6. 知识图谱表示学习</a></td></tr>
+<tr><td colspan="2"><a href="#知识融合">5. 知识融合</a></td></tr>
+<tr><td colspan="2"><a href="#知识问答">6. 知识问答</a></td></tr>
+<tr><td colspan="2"><a href="#推荐系统">7. 推荐系统</a></td></tr>
+<tr><td colspan="2"><a href="#知识图谱表示学习">8. 知识图谱表示学习</a></td></tr>
 </table>
 
 ## [实体识别](#content)
@@ -64,6 +65,8 @@ Contributed by Song Rui(宋瑞)、Zhao Ke(赵克)
 ## [关系抽取](#content)
 
 ## [实体关系联合抽取](#content)
+
+## [知识融合](#content)
 
 ## [知识问答](#content)
 
