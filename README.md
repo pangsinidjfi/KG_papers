@@ -17,6 +17,10 @@ Contributed by Song Rui(宋瑞)、Zhao Ke(赵克)、Chen Hangting(陈杭婷)、L
 <tr><td colspan="2"><a href="#关系抽取">2. 关系抽取</a></td></tr>
 <tr><td colspan="2"><a href="#实体关系联合抽取">3. 实体关系联合抽取</a></td></tr>
 <tr><td colspan="2"><a href="#知识融合">5. 知识融合</a></td></tr>
+<tr>
+    <td>&emsp;<a href="#实体对齐">5.1 实体对齐</a></td>
+    <td>&emsp;<a href="#实体消歧">5.2 实体消歧</a></td>
+</tr>
 <tr><td colspan="2"><a href="#知识问答">6. 知识问答</a></td></tr>
 <tr><td colspan="2"><a href="#推荐系统">7. 推荐系统</a></td></tr>
 <tr><td colspan="2"><a href="#知识图谱表示学习">8. 知识图谱表示学习</a></td></tr>
@@ -64,6 +68,13 @@ Contributed by Song Rui(宋瑞)、Zhao Ke(赵克)、Chen Hangting(陈杭婷)、L
 ## [实体关系联合抽取](#content)
 
 ## [知识融合](#content)
+### [实体对齐](#content)
+**实体对齐（Entity Alignment）**：将具有相同真实世界身份的实体从不同知识图(KGs)中连接起来的任务。
+
+1. **Relation-Aware Entity Alignment for Heterogeneous Knowledge Graphs，IJCAI2019** [paper](https://www.ijcai.org/Proceedings/2019/0733.pdf)
+    *Yuting Wu et al. Peking University, China; Lancaster University, U. K.*
+
+### [实体消歧](#content)
 
 ## [知识问答](#content)
 
