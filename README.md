@@ -12,7 +12,7 @@ Contributed by Song Rui(宋瑞)、Zhao Ke(赵克)、Chen Hangting(陈杭婷)、L
 </tr>
 <tr>
     <td>&ensp;<a href="#词汇增强">1.3 词汇增强</a></td>   
-    <td>&ensp;<a href="#图神经网络">1.4 图神经网络</a></td>
+    <td>&ensp;<a href="#"></a></td>
 </tr>
 <tr><td colspan="2"><a href="#关系抽取">2. 关系抽取</a></td></tr>
 <tr><td colspan="2"><a href="#实体关系联合抽取">3. 实体关系联合抽取</a></td></tr>
@@ -58,9 +58,6 @@ Contributed by Song Rui(宋瑞)、Zhao Ke(赵克)、Chen Hangting(陈杭婷)、L
     *Tao Gui, Yicheng Zou, Qi Zhang et al. Fudan University*
 5. **FLAT: Chinese NER Using Flat-Lattice Transformer，ACL2020** [paper](https://arxiv.org/pdf/2004.11795.pdf)
     *Xiaonan Li, Hang Yan, Xipeng Qiu, Xuanjing Huang, Fudan University*
-
-### [图神经网络](#content)
-
 
 ## [关系抽取](#content)
 
