@@ -75,6 +75,9 @@ Contributed by Song Rui(宋瑞)、Zhao Ke(赵克)、Chen Hangting(陈杭婷)、L
     *Yuting Wu et al. Peking University, China; Lancaster University, U. K.*
 
 ### [实体消歧](#content)
+**实体消歧（Entity Disambiguation）**：消除一词多意现象，把一个实体的不同名字彼此对应。
+1. **Deep Joint Entity Disambiguation with Local Neural Attention，EMNLP2017** [paper](https://www.aclweb.org/anthology/D17-1277.pdf)
+    *Octavian-Eugen Ganea and Thomas Hofmann, ETH Zurich*
 
 ## [知识问答](#content)
 
