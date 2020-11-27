@@ -1,6 +1,6 @@
 # 知识图谱全栈开发所需论文
 Knowledge Graph Papers
-Contributed by Song Rui(宋瑞)、Zhao Ke(赵克)
+Contributed by Song Rui(宋瑞)、Zhao Ke(赵克)、Chen Hangting(陈杭婷)、Li Nan(李楠)、Xing Zhezhe(邢哲哲)
 
 ## [Content](#content)
 
