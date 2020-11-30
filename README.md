@@ -33,14 +33,17 @@ Contributed by Song Rui(宋瑞)、Zhao Ke(赵克)、Chen Hangting(陈杭婷)、L
     
 2. **Fast and Accurate Entity Recognition with Iterated Dilated Convolutions, EMNLP2017** [paper](https://arxiv.org/pdf/1702.02098.pdf)
     *Strubell E, Verga P, Belanger D, et al.*
+
+3. **A Multi-task Approach for Named Entity Recognition in Social Media Data，ACL2017** [paper](https://www.aclweb.org/anthology/W17-4419.pdf)
+    *Gustavo Aguilar, Suraj Maharjan, A. Pastor L´opez-Monroy. University of Houston*
     
-3. **Empower Sequence Labeling with Task-Aware Neural Language Model，AAAI2018** [paper](https://arxiv.org/pdf/1709.04109.pdf)
+4. **Empower Sequence Labeling with Task-Aware Neural Language Model，AAAI2018** [paper](https://arxiv.org/pdf/1709.04109.pdf)
     *Liyuan Liuy, Jingbo Shang et al. University of Illinois at Urbana-Champaign, University of Southern California, Shanghai Jiao Tong University*
     
-4. **Neural Chinese Named Entity Recognition via CNN-LSTM-CRF and Joint Training with Word Segmentation，WWW2019** [paper](https://arxiv.org/pdf/1905.01964.pdf)
+5. **Neural Chinese Named Entity Recognition via CNN-LSTM-CRF and Joint Training with Word Segmentation，WWW2019** [paper](https://arxiv.org/pdf/1905.01964.pdf)
     *Fangzhao Wu, Junxin Liu, Chuhan Wu.  Microsoft Research Asia,Tsinghua University*
     
-5. **CAN-NER: Convolutional Attention Network for Chinese Named Entity Recognition, NAACL2019** [paper](https://arxiv.org/pdf/1904.02141.pdf)
+6. **CAN-NER: Convolutional Attention Network for Chinese Named Entity Recognition, NAACL2019** [paper](https://arxiv.org/pdf/1904.02141.pdf)
     *Yuying Zhu, Guoxin Wang, Borje F. Karlsson. Nankai University, Microsoft Research Asia*
 
 ### [远程监督](#content)
