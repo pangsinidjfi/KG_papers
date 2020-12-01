@@ -47,7 +47,7 @@ Contributed by Song Rui(宋瑞)、Zhao Ke(赵克)、Chen Hangting(陈杭婷)、L
     *Yuying Zhu, Guoxin Wang, Borje F. Karlsson. Nankai University, Microsoft Research Asia*
 
 ### [远程监督](#content)
-1. **Distantly Supervised NER with Partial Annotation Learning and Reinforcement Learning, ICCL2018** [paper](https://www.aclweb.org/anthology/C18-1183.pdf)
+1. **Distantly Supervised NER with Partial Annotation Learning and Reinforcement Learning, COLING2018** [paper](https://www.aclweb.org/anthology/C18-1183.pdf)
 [code](https://github.com/mianzhang/DSNER)
     *Yaosheng Yang, Wenliang Chen, Zhenghua Li, Zhengqiu He, Min Zhang.  Soochow University, China*
 
