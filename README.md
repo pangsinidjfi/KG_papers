@@ -15,6 +15,10 @@ Contributed by Song Rui(宋瑞)、Zhao Ke(赵克)、Chen Hangting(陈杭婷)、L
     <td>&ensp;<a href="#"></a></td>
 </tr>
 <tr><td colspan="2"><a href="#关系抽取">2. 关系抽取</a></td></tr>
+<tr>
+    <td>&emsp;<a href="#有监督">2.1 基本模型</a></td>
+    <td>&emsp;<a href="#半监督">2.2 远程监督</a></td>
+</tr>
 <tr><td colspan="2"><a href="#实体关系联合抽取">3. 实体关系联合抽取</a></td></tr>
 <tr><td colspan="2"><a href="#知识融合">5. 知识融合</a></td></tr>
 <tr>
@@ -73,6 +77,8 @@ Contributed by Song Rui(宋瑞)、Zhao Ke(赵克)、Chen Hangting(陈杭婷)、L
     *Xiaonan Li, Hang Yan, Xipeng Qiu, Xuanjing Huang, Fudan University*
 
 ## [关系抽取](#content)
+### [有监督](#content)
+### [半监督](#content)
 
 ## [实体关系联合抽取](#content)
 
