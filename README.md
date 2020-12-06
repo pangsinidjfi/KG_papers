@@ -78,9 +78,26 @@ Contributed by Song Rui(宋瑞)、Zhao Ke(赵克)、Chen Hangting(陈杭婷)、L
 
 ## [关系抽取](#content)
 ### [有监督](#content)
+1. **End-to-End Neural Relation Extraction with Global Optimization, ACL2017**[paper](https://www.aclweb.org/anthology/D17-1182.pdf)
+
+2. **A Walk-based Model on Entity Graphs for Relation Extraction,ACL2018**[paper](https://www.aclweb.org/anthology/P18-2014.pdf)
+    *Fenia Christopoulou, Makoto Miwa, Sophia Ananiadou. The University of Manchester, United Kingdom; Toyota Technological Institute, Nagoya* 
+
 ### [半监督](#content)
+包含bootstrapping和远程监督，后者在神经网络中常用。其基本假设是：对于一个已有的知识图谱中的一个三元组，假设外部文档库中任何包含这对实体的句子，在一定程度上都反映了这种关系。缺点是会引入大量噪声。因此会有一些操作可以减少噪声：多示例学习；强化学习；预训练。
+
 1. **Snowball : Extracting relations from large Plain-text collections，2000**（这篇太久了可以不看）
     *Agichtein E, Gravano L*
+    
+2. **Deep Residual Learning for Weakly-Supervised Relation Extraction，ACL2017**[paper](https://www.aclweb.org/anthology/D17-1191.pdf)
+
+3. **Learning with Noise: Enhance Distantly Supervised Relation Extraction with Dynamic Transition Matrix，ACL2018**[paper](https://www.aclweb.org/anthology/P17-1040.pdf)
+
+3. **Neural Snowball for Few-Shot Relation Learning，AAAI2020**[paper](https://arxiv.org/pdf/1908.11007v1.pdf)
+    *Tianyu Gao, Xu Han,Maosong Sun et al. Tsinghua University and Search Product Center, WeChat Search Application Department, Tencent*
+    
+4. **Distilling Knowledge fromWell-Informed Soft Labels for Neural Relation Extraction,AAAI2020**[paper](https://aaai.org/ojs/index.php/AAAI/article/view/6509/6365)
+    *Zhenyu Zhang, Xiaobo Shu, Bowen Yu, Tingwen Liu et al. Chinese Academy of Sciences*
 
 ## [实体关系联合抽取](#content)
 
