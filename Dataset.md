@@ -15,3 +15,4 @@
 [新浪财经实体识别数据集](https://github.com/jiesutd/LatticeLSTM)
 
 ## 英文
+[CoNLL](https://www.clips.uantwerpen.be/conll2003/ner/)
