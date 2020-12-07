@@ -14,5 +14,7 @@
 
 [新浪财经实体识别数据集](https://github.com/jiesutd/LatticeLSTM)
 
+[CLUENER2020](https://github.com/GuocaiL/nlp_corpus/tree/main/open_ner_data/cluener_public):
+
 ## 英文
 [CoNLL](https://www.clips.uantwerpen.be/conll2003/ner/)
