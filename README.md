@@ -12,6 +12,7 @@ Contributed by Song Rui(宋瑞)、Zhao Ke(赵克)、Chen Hangting(陈杭婷)、L
 </tr>
 <tr>
     <td>&ensp;<a href="#词汇增强">1.3 词汇增强</a></td>   
+    <td>&ensp;<a href="#嵌套实体识别">1.4 嵌套实体识别</a></td> 
     <td>&ensp;<a href="#"></a></td>
 </tr>
 <tr><td colspan="2"><a href="#关系抽取">2. 关系抽取</a></td></tr>
@@ -53,6 +54,9 @@ Contributed by Song Rui(宋瑞)、Zhao Ke(赵克)、Chen Hangting(陈杭婷)、L
 7. **A Neural Multi-digraph Model for Chinese NER with Gazetteers，ACL2019** [paper](https://www.aclweb.org/anthology/P19-1141.pdf)
     *Ruixue Ding, Pengjun Xie et al. Alibaba Group, Beihang University, Singapore University of Technology and Design*
 
+8. **TriggerNER: Learning with Entity Triggers as Explanations for Named Entity Recognition, ACL2020** [paper](https://www.aclweb.org/anthology/2020.acl-main.752.pdf)
+    *Bill Yuchen Lin, Dong-Ho Lee, Ming Shen, Ryan Moreno et al. University of Southern California; Amazon*
+
 ### [远程监督](#content)
 1. **Distantly Supervised NER with Partial Annotation Learning and Reinforcement Learning, COLING2018** [paper](https://www.aclweb.org/anthology/C18-1183.pdf)
 [code](https://github.com/mianzhang/DSNER)
@@ -75,6 +79,10 @@ Contributed by Song Rui(宋瑞)、Zhao Ke(赵克)、Chen Hangting(陈杭婷)、L
     *Tao Gui, Yicheng Zou, Qi Zhang et al. Fudan University*
 5. **FLAT: Chinese NER Using Flat-Lattice Transformer，ACL2020** [paper](https://arxiv.org/pdf/2004.11795.pdf)
     *Xiaonan Li, Hang Yan, Xipeng Qiu, Xuanjing Huang, Fudan University*
+    
+### [嵌套实体识别](#content)
+1. **Bipartite Flat-Graph Network for Nested Named Entity Recognition，ACL2020** [paper](https://www.aclweb.org/anthology/2020.acl-main.571.pdf)
+    *Ying Luo, Hai Zhao. Shanghai Jiao Tong University*
 
 ## [关系抽取](#content)
 ### [有监督](#content)
@@ -102,6 +110,8 @@ Contributed by Song Rui(宋瑞)、Zhao Ke(赵克)、Chen Hangting(陈杭婷)、L
     *Zhenyu Zhang, Xiaobo Shu, Bowen Yu, Tingwen Liu et al. Chinese Academy of Sciences*
 
 ## [实体关系联合抽取](#content)
+
+1. **Relabel the Noise: Joint Extraction of Entities and Relations via Cooperative Multiagents, ACL2020** [paper](https://arxiv.org/abs/2004.09930)
 
 ## [知识融合](#content)
 ### [实体对齐](#content)
