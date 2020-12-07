@@ -12,8 +12,10 @@ Contributed by Song Rui(宋瑞)、Zhao Ke(赵克)、Chen Hangting(陈杭婷)、L
 </tr>
 <tr>
     <td>&ensp;<a href="#词汇增强">1.3 词汇增强</a></td>   
-    <td>&ensp;<a href="#嵌套实体识别">1.4 嵌套实体</a></td> 
-    <td>&ensp;<a href="#"></a></td>
+    <td>&ensp;<a href="#嵌套实体">1.4 嵌套实体</a></td> 
+</tr>
+<tr>
+    <td>&ensp;<a href="#迁移学习">1.5 迁移学习</a></td>   
 </tr>
 <tr><td colspan="2"><a href="#关系抽取">2. 关系抽取</a></td></tr>
 <tr>
@@ -88,7 +90,7 @@ Contributed by Song Rui(宋瑞)、Zhao Ke(赵克)、Chen Hangting(陈杭婷)、L
 5. **FLAT: Chinese NER Using Flat-Lattice Transformer，ACL2020** [paper](https://arxiv.org/pdf/2004.11795.pdf)
     *Xiaonan Li, Hang Yan, Xipeng Qiu, Xuanjing Huang, Fudan University*
     
-### [嵌套实体识别](#content)
+### [嵌套实体](#content)
 1. **Bipartite Flat-Graph Network for Nested Named Entity Recognition，ACL2020** [paper](https://www.aclweb.org/anthology/2020.acl-main.571.pdf)
     *Ying Luo, Hai Zhao. Shanghai Jiao Tong University*
     
@@ -97,6 +99,10 @@ Contributed by Song Rui(宋瑞)、Zhao Ke(赵克)、Chen Hangting(陈杭婷)、L
     
 3. **Pyramid: A Layered Model for Nested Named Entity Recognition, ACL** [paper](https://www.aclweb.org/anthology/2020.acl-main.525.pdf)
     *Jue Wang, Lidan Shou, Ke Chen, Gang Chen. Zhejiang University*
+    
+### [迁移学习](#content)
+
+1. **Adversarial Transfer Learning for Chinese Named Entity Recognition with Self-Attention Mechanism, ACL2018** [paper](https://www.aclweb.org/anthology/D18-1017.pdf)
 
 ## [关系抽取](#content)
 ### [有监督](#content)
