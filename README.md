@@ -12,7 +12,7 @@ Contributed by Song Rui(宋瑞)、Zhao Ke(赵克)、Chen Hangting(陈杭婷)、L
 </tr>
 <tr>
     <td>&ensp;<a href="#词汇增强">1.3 词汇增强</a></td>   
-    <td>&ensp;<a href="#嵌套实体识别">1.4 嵌套实体识别</a></td> 
+    <td>&ensp;<a href="#嵌套实体识别">1.4 嵌套实体</a></td> 
     <td>&ensp;<a href="#"></a></td>
 </tr>
 <tr><td colspan="2"><a href="#关系抽取">2. 关系抽取</a></td></tr>
