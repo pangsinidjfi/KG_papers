@@ -56,14 +56,22 @@ Contributed by Song Rui(宋瑞)、Zhao Ke(赵克)、Chen Hangting(陈杭婷)、L
 
 8. **TriggerNER: Learning with Entity Triggers as Explanations for Named Entity Recognition, ACL2020** [paper](https://www.aclweb.org/anthology/2020.acl-main.752.pdf)
     *Bill Yuchen Lin, Dong-Ho Lee, Ming Shen, Ryan Moreno et al. University of Southern California; Amazon*
+    
+9. **Handling Rare Entities for Neural Sequence Labeling, ACL2020** [paper](https://www.aclweb.org/anthology/2020.acl-main.574.pdf) 
+
+10. **Multi-Domain Named Entity Recognition with Genre-Aware and Agnostic Inference, ACL2020** [paper](https://www.aclweb.org/anthology/2020.acl-main.750.pdf)
 
 ### [远程监督](#content)
+或者少量样本，或者低资源的实体识别。
+
 1. **Distantly Supervised NER with Partial Annotation Learning and Reinforcement Learning, COLING2018** [paper](https://www.aclweb.org/anthology/C18-1183.pdf)
 [code](https://github.com/mianzhang/DSNER)
     *Yaosheng Yang, Wenliang Chen, Zhenghua Li, Zhengqiu He, Min Zhang.  Soochow University, China*
 
 2. **Reinforcement-based denoising of distantly supervised NER with partial annotation，EMNLP2019** [paper](https://www.aclweb.org/anthology/D19-6125.pdf)
     *Farhad Nooralahzadeh, Jan Tore Lønning, Lilja Øvrelid.    University of Oslo, Norway*
+
+3. **Improving Low-Resource Named Entity Recognition using Joint Sentence and Token Labeling, ACL2020** [paper](https://www.aclweb.org/anthology/2020.acl-main.523/)
 
 ### [词汇增强](#content)
 1. **Chinese NER Using Lattice LSTM，ACL2018** [paper](https://arxiv.org/pdf/1805.02023.pdf)
@@ -83,6 +91,12 @@ Contributed by Song Rui(宋瑞)、Zhao Ke(赵克)、Chen Hangting(陈杭婷)、L
 ### [嵌套实体识别](#content)
 1. **Bipartite Flat-Graph Network for Nested Named Entity Recognition，ACL2020** [paper](https://www.aclweb.org/anthology/2020.acl-main.571.pdf)
     *Ying Luo, Hai Zhao. Shanghai Jiao Tong University*
+    
+2. **Named Entity Recognition as Dependency Parsing, ACL2020** [paper](Named Entity Recognition as Dependency Parsing)
+    *Queen Mary University London,UK. Google Research,Netherlands*
+    
+3. **Pyramid: A Layered Model for Nested Named Entity Recognition, ACL** [paper](https://www.aclweb.org/anthology/2020.acl-main.525.pdf)
+    *Jue Wang, Lidan Shou, Ke Chen, Gang Chen. Zhejiang University*
 
 ## [关系抽取](#content)
 ### [有监督](#content)
