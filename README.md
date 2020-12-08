@@ -45,13 +45,13 @@ Contributed by Song Rui(宋瑞)、Zhao Ke(赵克)、Chen Hangting(陈杭婷)、L
     *Gustavo Aguilar, Suraj Maharjan, A. Pastor L´opez-Monroy. University of Houston*
     
 4. **Empower Sequence Labeling with Task-Aware Neural Language Model，AAAI2018** [paper](https://arxiv.org/pdf/1709.04109.pdf)
-    *Liyuan Liuy, Jingbo Shang et al. University of Illinois at Urbana-Champaign, University of Southern California, Shanghai Jiao Tong University*
+    *Liyuan Liuy, Jingbo Shang et al. University of Illinois at Urbana-Champaign, University of Southern California, Shanghai Jiao Tong University*(√)
     
 5. **Neural Chinese Named Entity Recognition via CNN-LSTM-CRF and Joint Training with Word Segmentation，WWW2019** [paper](https://arxiv.org/pdf/1905.01964.pdf)
-    *Fangzhao Wu, Junxin Liu, Chuhan Wu.  Microsoft Research Asia,Tsinghua University*
+    *Fangzhao Wu, Junxin Liu, Chuhan Wu.  Microsoft Research Asia,Tsinghua University*(√)
     
 6. **CAN-NER: Convolutional Attention Network for Chinese Named Entity Recognition, NAACL2019** [paper](https://arxiv.org/pdf/1904.02141.pdf)
-    *Yuying Zhu, Guoxin Wang, Borje F. Karlsson. Nankai University, Microsoft Research Asia*\
+    *Yuying Zhu, Guoxin Wang, Borje F. Karlsson. Nankai University, Microsoft Research Asia*
     
 7. **A Neural Multi-digraph Model for Chinese NER with Gazetteers，ACL2019** [paper](https://www.aclweb.org/anthology/P19-1141.pdf)
     *Ruixue Ding, Pengjun Xie et al. Alibaba Group, Beihang University, Singapore University of Technology and Design*(√)
