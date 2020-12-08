@@ -36,7 +36,7 @@ Contributed by Song Rui(宋瑞)、Zhao Ke(赵克)、Chen Hangting(陈杭婷)、L
 ## [实体识别](#content)
 ### [基本模型](#content)
 1. **Bidirectional LSTM-CRF Models for Sequence Tagging, 2015** [paper](https://arxiv.org/pdf/1508.01991.pdf)
-    *Huang, Zhiheng, Wei Xu, and Kai Yu.*
+    *Huang, Zhiheng, Wei Xu, and Kai Yu.*(√)
     
 2. **Fast and Accurate Entity Recognition with Iterated Dilated Convolutions, EMNLP2017** [paper](https://arxiv.org/pdf/1702.02098.pdf)
     *Strubell E, Verga P, Belanger D, et al.*
@@ -54,10 +54,10 @@ Contributed by Song Rui(宋瑞)、Zhao Ke(赵克)、Chen Hangting(陈杭婷)、L
     *Yuying Zhu, Guoxin Wang, Borje F. Karlsson. Nankai University, Microsoft Research Asia*\
     
 7. **A Neural Multi-digraph Model for Chinese NER with Gazetteers，ACL2019** [paper](https://www.aclweb.org/anthology/P19-1141.pdf)
-    *Ruixue Ding, Pengjun Xie et al. Alibaba Group, Beihang University, Singapore University of Technology and Design*
+    *Ruixue Ding, Pengjun Xie et al. Alibaba Group, Beihang University, Singapore University of Technology and Design*(√)
 
 8. **TriggerNER: Learning with Entity Triggers as Explanations for Named Entity Recognition, ACL2020** [paper](https://www.aclweb.org/anthology/2020.acl-main.752.pdf)
-    *Bill Yuchen Lin, Dong-Ho Lee, Ming Shen, Ryan Moreno et al. University of Southern California; Amazon*
+    *Bill Yuchen Lin, Dong-Ho Lee, Ming Shen, Ryan Moreno et al. University of Southern California; Amazon*(√)
     
 9. **Handling Rare Entities for Neural Sequence Labeling, ACL2020** [paper](https://www.aclweb.org/anthology/2020.acl-main.574.pdf) 
 
@@ -68,31 +68,31 @@ Contributed by Song Rui(宋瑞)、Zhao Ke(赵克)、Chen Hangting(陈杭婷)、L
 
 1. **Distantly Supervised NER with Partial Annotation Learning and Reinforcement Learning, COLING2018** [paper](https://www.aclweb.org/anthology/C18-1183.pdf)
 [code](https://github.com/mianzhang/DSNER)
-    *Yaosheng Yang, Wenliang Chen, Zhenghua Li, Zhengqiu He, Min Zhang.  Soochow University, China*
+    *Yaosheng Yang, Wenliang Chen, Zhenghua Li, Zhengqiu He, Min Zhang.  Soochow University, China*(√)
 
 2. **Reinforcement-based denoising of distantly supervised NER with partial annotation，EMNLP2019** [paper](https://www.aclweb.org/anthology/D19-6125.pdf)
-    *Farhad Nooralahzadeh, Jan Tore Lønning, Lilja Øvrelid.    University of Oslo, Norway*
+    *Farhad Nooralahzadeh, Jan Tore Lønning, Lilja Øvrelid.    University of Oslo, Norway*(√)
 
 3. **Improving Low-Resource Named Entity Recognition using Joint Sentence and Token Labeling, ACL2020** [paper](https://www.aclweb.org/anthology/2020.acl-main.523/)
 
 ### [词汇增强](#content)
 1. **Chinese NER Using Lattice LSTM，ACL2018** [paper](https://arxiv.org/pdf/1805.02023.pdf)
-    *Yue Zhang, and Jie Yang. Singapore University of Technology and Design*
+    *Yue Zhang, and Jie Yang. Singapore University of Technology and Design*(√)
     
 2. **CNN-Based Chinese NER with Lexicon Rethinking，IJCAI2019** [paper](https://pdfs.semanticscholar.org/1698/d96c6fffee9ec969e07a58bab62cb4836614.pdf)
-    *Tao Gui et al. Fudan University, Shanghai, China*
+    *Tao Gui et al. Fudan University, Shanghai, China*(√)
     
 3. **CGN: Leverage Lexical Knowledge for Chinese Named Entity Recognition via Collaborative Graph Network, EMNLP2019** [paper](https://www.aclweb.org/anthology/D19-1396.pdf)
-    *Dianbo Sui, Yubo Chen, Kang Liu, Jun Zhao, Shengping Liu.  Chinese Academy of Sciences, University of Chinese Academy of Sciences*
+    *Dianbo Sui, Yubo Chen, Kang Liu, Jun Zhao, Shengping Liu.  Chinese Academy of Sciences, University of Chinese Academy of Sciences*(√)
     
 4. **A Lexicon-Based Graph Neural Network for Chinese NER，EMNLP2019** [paper](https://www.aclweb.org/anthology/D19-1096.pdf)
-    *Tao Gui, Yicheng Zou, Qi Zhang et al. Fudan University*
+    *Tao Gui, Yicheng Zou, Qi Zhang et al. Fudan University*(√)
 5. **FLAT: Chinese NER Using Flat-Lattice Transformer，ACL2020** [paper](https://arxiv.org/pdf/2004.11795.pdf)
-    *Xiaonan Li, Hang Yan, Xipeng Qiu, Xuanjing Huang, Fudan University*
+    *Xiaonan Li, Hang Yan, Xipeng Qiu, Xuanjing Huang, Fudan University*(√)
     
 ### [嵌套实体](#content)
 1. **Bipartite Flat-Graph Network for Nested Named Entity Recognition，ACL2020** [paper](https://www.aclweb.org/anthology/2020.acl-main.571.pdf)
-    *Ying Luo, Hai Zhao. Shanghai Jiao Tong University*
+    *Ying Luo, Hai Zhao. Shanghai Jiao Tong University*(√)
     
 2. **Named Entity Recognition as Dependency Parsing, ACL2020** [paper](https://arxiv.org/pdf/2005.07150.pdf)
     *Queen Mary University London,UK. Google Research,Netherlands*
