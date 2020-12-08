@@ -94,8 +94,7 @@ Contributed by Song Rui(宋瑞)、Zhao Ke(赵克)、Chen Hangting(陈杭婷)、L
 1. **Bipartite Flat-Graph Network for Nested Named Entity Recognition，ACL2020** [paper](https://www.aclweb.org/anthology/2020.acl-main.571.pdf)
     *Ying Luo, Hai Zhao. Shanghai Jiao Tong University*(√)
     
-2. **Named Entity Recognition as Dependency Parsing, ACL2020** [paper](https://arxiv.org/pdf/2005.07150.pdf) [code](https://github.com/
-juntaoy/biaffine-ner)
+2. **Named Entity Recognition as Dependency Parsing, ACL2020** [paper](https://arxiv.org/pdf/2005.07150.pdf) [code](https://github.com/juntaoy/biaffine-ner)
     *Queen Mary University London,UK. Google Research,Netherlands*
     
 3. **Pyramid: A Layered Model for Nested Named Entity Recognition, ACL** [paper](https://www.aclweb.org/anthology/2020.acl-main.525.pdf)
