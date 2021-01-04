@@ -97,8 +97,15 @@ Contributed by Song Rui(宋瑞)、Zhao Ke(赵克)、Chen Hangting(陈杭婷)、L
 2. **Named Entity Recognition as Dependency Parsing, ACL2020** [paper](https://arxiv.org/pdf/2005.07150.pdf) [code](https://github.com/juntaoy/biaffine-ner)
     *Queen Mary University London,UK. Google Research,Netherlands*(√)
     
-3. **Pyramid: A Layered Model for Nested Named Entity Recognition, ACL** [paper](https://www.aclweb.org/anthology/2020.acl-main.525.pdf)
-    *Jue Wang, Lidan Shou, Ke Chen, Gang Chen. Zhejiang University*
+3. **Pyramid: A Layered Model for Nested Named Entity Recognition, ACL2020** [paper](https://www.aclweb.org/anthology/2020.acl-main.525.pdf)
+    *Jue Wang, Lidan Shou, Ke Chen, Gang Chen. Zhejiang University*(√)
+	
+4. **Multi-Domain Named Entity Recognition with Genre-Aware and Agnostic Inference, ACL2020** [paper](https://www.aclweb.org/anthology/2020.acl-main.750.pdf)
+	*Jing Wang, Mayank Kulkarni, Daniel Preotiuc-Pietro. Bloomberg*(√)
+	
+5. **Neural Architectures for Nested NER through Linearization, ACL2019** [paper](https://www.aclweb.org/anthology/P19-1527.pdf)
+	*Jana Strakova, Milan Straka, Jan Hajic. Charles University*(√)
+	
     
 ### [迁移学习](#content)
 
